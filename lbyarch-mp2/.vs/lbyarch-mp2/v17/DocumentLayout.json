@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{55E4E3EA-6DA2-4611-A382-F18F33C71A3F}|lbyarch-mp2.vcxproj|C:\\Users\\Angelo Guerra\\Documents\\GitHub\\lbyarch-mp2\\lbyarch-mp2\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{55E4E3EA-6DA2-4611-A382-F18F33C71A3F}|lbyarch-mp2.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55E4E3EA-6DA2-4611-A382-F18F33C71A3F}|lbyarch-mp2.vcxproj|C:\\Users\\Angelo Guerra\\Documents\\GitHub\\lbyarch-mp2\\lbyarch-mp2\\asmfunc.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{55E4E3EA-6DA2-4611-A382-F18F33C71A3F}|lbyarch-mp2.vcxproj|solutionrelative:asmfunc.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,22 +24,9 @@
               "RelativeDocumentMoniker": "main.c",
               "ToolTip": "C:\\Users\\Angelo Guerra\\Documents\\GitHub\\lbyarch-mp2\\lbyarch-mp2\\main.c",
               "RelativeToolTip": "main.c",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAbAAAA",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAB0AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-03-31T19:38:06.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "asmfunc.asm",
-              "DocumentMoniker": "C:\\Users\\Angelo Guerra\\Documents\\GitHub\\lbyarch-mp2\\lbyarch-mp2\\asmfunc.asm",
-              "RelativeDocumentMoniker": "asmfunc.asm",
-              "ToolTip": "C:\\Users\\Angelo Guerra\\Documents\\GitHub\\lbyarch-mp2\\lbyarch-mp2\\asmfunc.asm",
-              "RelativeToolTip": "asmfunc.asm",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAB8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-03-31T19:38:04.419Z",
               "EditorCaption": ""
             }
           ]

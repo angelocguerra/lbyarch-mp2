@@ -3,7 +3,6 @@ bits 64
 default rel ; to handle address relocation
 
 global asm_dot_product
-extern printf
 
 ;Performs a dot product between 2 vectors (x86_64 Assembly Version)
 ; Params:

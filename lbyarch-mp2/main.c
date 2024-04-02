@@ -40,7 +40,7 @@ float c_dot_product(int n, float* vectorA, float* vectorB) {
 
 int main(int argc, char* argv[]) {
 	// Initialize input variables
-	int exponent = 20; // Change variable assignment value to set vector size
+	int exponent = 30; // Change variable assignment value to set vector size
 					   // 20 for 2^20, 24 for 2^24, 30 for 2^30
 	int n = 1 << exponent; 
 	float* vectorA;
@@ -64,10 +64,10 @@ int main(int argc, char* argv[]) {
 	// Initialize vector data
 	initializeVectors(n, vectorA, vectorB);
 
-	int iterations = 24; // Time both functions 30 times
+	int iterations = 30; // Time both functions 30 times
 
 	// Display console
-	printf("Vector Size: 2^%d\n\n", exponent);
+	printf("Vector Size: 2^%d (%d)\n\n", exponent, n);
 
 	for (int i = 0; i < iterations; i++) {
 		// C Function
